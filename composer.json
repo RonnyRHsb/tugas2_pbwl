@@ -1,0 +1,16 @@
+{
+    "name": "ronny/pln_ronny",
+    "description": "Tugas2_ronny",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ronny\\PLNRonny\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronny Hsb"
+        }
+    ],
+    "require": {}
+}
